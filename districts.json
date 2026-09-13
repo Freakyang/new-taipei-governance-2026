@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "板橋區",
+    "region": "都會核心",
+    "population": 547794,
+    "area": 21.28,
+    "density": 25742,
+    "issues": [
+      "老屋更新",
+      "板橋站／環狀線",
+      "社宅育兒",
+      "商圈更新"
+    ],
+    "lee": "都更5夠力與軌道路網為主要對應。",
+    "su": "都更住宅與長幼福利高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "新北市政府民政局｜行政區面積",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=0de11fd46b419ad1",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川都更5夠力",
+        "url": "https://www.cna.com.tw/news/aloc/202608190134.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "OURs／住盟｜2026六都社宅政策白皮書",
+        "url": "https://ours.org.tw/2026socialhousing/",
+        "type": "民間NGO"
+      }
+    ]
+  },
+  {
+    "name": "三重區",
+    "region": "溪北都會",
+    "population": 382530,
+    "area": 17.98,
+    "density": 21275,
+    "issues": [
+      "高密度老屋",
+      "跨河通勤",
+      "河岸產業",
+      "托育高齡"
+    ],
+    "lee": "大漢溪捷運縱貫線構想與都更政策相關。",
+    "su": "全市都更、住宅與家庭福利適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川都更5夠力",
+        "url": "https://www.cna.com.tw/news/aloc/202608190134.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "OURs等｜住宅、托育、勞動共同倡議",
+        "url": "https://ours.org.tw/2026/07/15/pressrelease20260715/",
+        "type": "民間NGO"
+      }
+    ]
+  },
+  {
+    "name": "中和區",
+    "region": "雙和核心",
+    "population": 402076,
+    "area": 19.43,
+    "density": 20694,
+    "issues": [
+      "超高密度",
+      "萬大／環狀線",
+      "台北通勤",
+      "老屋更新"
+    ],
+    "lee": "軌道123提出中和光復線延伸構想。",
+    "su": "交通平權、都更與住宅政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "新北市捷運工程局｜捷運建設資訊",
+        "url": "https://www.dorts.ntpc.gov.tw/",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "永和區",
+    "region": "雙和核心",
+    "population": 210038,
+    "area": 6.16,
+    "density": 34097,
+    "issues": [
+      "高密度",
+      "老屋防災",
+      "捷運公車",
+      "公共空間"
+    ],
+    "lee": "中和光復線與都更5夠力高度相關。",
+    "su": "都更局、AI審查與住宅政策高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "新北市政府民政局｜行政區面積",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=0de11fd46b419ad1",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川都更5夠力",
+        "url": "https://www.cna.com.tw/news/aloc/202608190134.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "OURs｜新北容積與公益回饋研究",
+        "url": "https://ours.org.tw/2026/07/26/urbanlecture61/",
+        "type": "民間NGO"
+      }
+    ]
+  },
+  {
+    "name": "新莊區",
+    "region": "溪北成長",
+    "population": 419921,
+    "area": 20.68,
+    "density": 20306,
+    "issues": [
+      "塭仔圳",
+      "副都心",
+      "產業就業",
+      "捷運快速道路"
+    ],
+    "lee": "大漢溪捷運縱貫線、AI科技廊帶均涵蓋新莊。",
+    "su": "住宅、青年與地方建設政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "新店區",
+    "region": "大新店",
+    "population": 305489,
+    "area": 121.16,
+    "density": 2521,
+    "issues": [
+      "寶高智慧園區",
+      "安坑交通",
+      "坡地水環境",
+      "住宅更新"
+    ],
+    "lee": "產業四箭提出擴大寶高，另有中和光復線南延概念。",
+    "su": "青年、住宅與交通平權政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      }
+    ]
+  },
+  {
+    "name": "土城區",
+    "region": "溪南成長",
+    "population": 242828,
+    "area": 29.94,
+    "density": 8110,
+    "issues": [
+      "產業園區",
+      "醫療量能",
+      "萬大樹林線",
+      "住宅重劃"
+    ],
+    "lee": "大漢溪捷運縱貫線與AI科技廊帶均涵蓋土城。",
+    "su": "住宅、青年及既有軌道建設論述相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "新北市捷運工程局｜捷運建設資訊",
+        "url": "https://www.dorts.ntpc.gov.tw/",
+        "type": "政府"
+      }
+    ]
+  },
+  {
+    "name": "蘆洲區",
+    "region": "溪北都會",
+    "population": 195348,
+    "area": 7.72,
+    "density": 25304,
+    "issues": [
+      "高密度住宅",
+      "台北通勤",
+      "產業空間",
+      "老屋更新"
+    ],
+    "lee": "產業與跨河交通政策把蘆洲視為連結北士科節點。",
+    "su": "全市都更、住宅、家庭政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "樹林區",
+    "region": "溪南成長",
+    "population": 176319,
+    "area": 31.92,
+    "density": 5524,
+    "issues": [
+      "鐵路切割",
+      "萬大樹林線",
+      "產業升級",
+      "城市開發"
+    ],
+    "lee": "主張樹林鐵路地下化與大漢溪捷運縱貫線，另有原民住宅政策。",
+    "su": "住宅、青年與萬大樹林線議題高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川原住民族政策",
+        "url": "https://www.cna.com.tw/news/aloc/202606270179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "新北市捷運工程局｜捷運建設資訊",
+        "url": "https://www.dorts.ntpc.gov.tw/",
+        "type": "政府"
+      }
+    ]
+  },
+  {
+    "name": "鶯歌區",
+    "region": "三鶯生活圈",
+    "population": 89447,
+    "area": 21.84,
+    "density": 4096,
+    "issues": [
+      "三鶯線",
+      "台鐵整合",
+      "陶瓷觀光",
+      "美術館周邊"
+    ],
+    "lee": "主張樹林鐵路地下化延伸鶯歌。",
+    "su": "交通平權與地方文化觀光方向適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "新北市捷運工程局｜捷運建設資訊",
+        "url": "https://www.dorts.ntpc.gov.tw/",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      }
+    ]
+  },
+  {
+    "name": "三峽區",
+    "region": "三鶯生活圈",
+    "population": 115068,
+    "area": 189.58,
+    "density": 607,
+    "issues": [
+      "三鶯線通勤",
+      "北大特區",
+      "老街觀光",
+      "教育育兒"
+    ],
+    "lee": "溪南交通與大漢溪軸線政策可對應。",
+    "su": "家庭、青年、住宅與交通平權高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      }
+    ]
+  },
+  {
+    "name": "淡水區",
+    "region": "北海岸門戶",
+    "population": 209973,
+    "area": 73.09,
+    "density": 2873,
+    "issues": [
+      "人口成長",
+      "淡北交通",
+      "淡海新市鎮",
+      "海岸觀光"
+    ],
+    "lee": "軌道與產業政策都將淡水／淡海視為重要節點。",
+    "su": "海岸觀光、住宅、青年與交通平權相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "汐止區",
+    "region": "東北都會",
+    "population": 212276,
+    "area": 71.8,
+    "density": 2956,
+    "issues": [
+      "汐東線／基隆捷運",
+      "內湖南港通勤",
+      "科技產業",
+      "水患韌性"
+    ],
+    "lee": "軌道123優先推汐東線；AI廊帶亦涵蓋汐止。",
+    "su": "交通平權與科技／青年政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "新北市捷運工程局｜捷運建設資訊",
+        "url": "https://www.dorts.ntpc.gov.tw/",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      }
+    ]
+  },
+  {
+    "name": "瑞芳區",
+    "region": "東北山海",
+    "population": 35152,
+    "area": 72.23,
+    "density": 487,
+    "issues": [
+      "九份交通",
+      "礦業文化",
+      "鐵路觀光",
+      "偏鄉醫療"
+    ],
+    "lee": "全市29區觀光方向適用；專屬建設仍待追蹤。",
+    "su": "山海觀光與地方創生方向高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "五股區",
+    "region": "產業轉型",
+    "population": 95162,
+    "area": 34.33,
+    "density": 2772,
+    "issues": [
+      "交流道開發",
+      "產業用地",
+      "台64／65",
+      "環境品質"
+    ],
+    "lee": "產業四箭明確提出五股交流道周邊整體開發。",
+    "su": "青年、住宅與產業政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "泰山區",
+    "region": "溪北成長",
+    "population": 78313,
+    "area": 18.08,
+    "density": 4331,
+    "issues": [
+      "塭仔圳外溢",
+      "機捷通勤",
+      "產業轉型",
+      "公共設施"
+    ],
+    "lee": "AI科技廊帶將泰山列為產業節點。",
+    "su": "青年、住宅與家庭政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "林口區",
+    "region": "新興城市",
+    "population": 139392,
+    "area": 54.29,
+    "density": 2568,
+    "issues": [
+      "人口移入",
+      "學校托育",
+      "機捷國道",
+      "醫療產業"
+    ],
+    "lee": "全市產業與交通政策可適用；專屬承諾仍有限。",
+    "su": "六大長幼福利、青年、住宅政策高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜都更與住宅政見",
+        "url": "https://chiao.tw/policies/%E9%83%BD%E6%9B%B4%E8%88%87%E4%BD%8F%E5%AE%85%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "OURs等｜住宅、托育、勞動共同倡議",
+        "url": "https://ours.org.tw/2026/07/15/pressrelease20260715/",
+        "type": "民間NGO"
+      }
+    ]
+  },
+  {
+    "name": "八里區",
+    "region": "淡水河口",
+    "population": 43483,
+    "area": 39.75,
+    "density": 1094,
+    "issues": [
+      "淡江大橋",
+      "台北港物流",
+      "海岸觀光",
+      "人口服務"
+    ],
+    "lee": "全市交通、產業及29區觀光政策可適用。",
+    "su": "海岸觀光、住宅與交通平權政策可適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川產業政策四箭／AI科技廊帶",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "深坑區",
+    "region": "大文山山麓",
+    "population": 23527,
+    "area": 20.94,
+    "density": 1124,
+    "issues": [
+      "老街觀光",
+      "聯外道路",
+      "輕軌延伸",
+      "坡地治理"
+    ],
+    "lee": "軌道123提出深坑輕軌延伸石碇。",
+    "su": "山城觀光與交通平權政策適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "石碇區",
+    "region": "山城",
+    "population": 6841,
+    "area": 141.92,
+    "density": 48,
+    "issues": [
+      "偏鄉交通",
+      "高齡醫療",
+      "山林觀光",
+      "坡地防災"
+    ],
+    "lee": "提出深坑輕軌延伸石碇。",
+    "su": "交通平權、長幼福利與山城觀光方向適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川「軌道建設123」",
+        "url": "https://www.cna.com.tw/news/aloc/202608120179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "坪林區",
+    "region": "山城／水源",
+    "population": 6052,
+    "area": 168.27,
+    "density": 36,
+    "issues": [
+      "水源保護",
+      "茶產業",
+      "偏鄉交通",
+      "高齡服務"
+    ],
+    "lee": "目前未查到坪林專屬大型工程。",
+    "su": "交通平權、長幼福利與地方觀光政策具高度相關性。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "三芝區",
+    "region": "北海岸",
+    "population": 21957,
+    "area": 67.52,
+    "density": 325,
+    "issues": [
+      "高齡醫療",
+      "農業觀光",
+      "北海岸交通",
+      "人口外流"
+    ],
+    "lee": "全市29區觀光與交通政策適用。",
+    "su": "海岸觀光、交通平權與高齡福利高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "石門區",
+    "region": "北海岸",
+    "population": 9866,
+    "area": 52.99,
+    "density": 186,
+    "issues": [
+      "低人口高齡",
+      "農漁觀光",
+      "沿海交通",
+      "公共服務"
+    ],
+    "lee": "全市觀光與交通政策適用。",
+    "su": "海岸觀光、交通平權與高齡福利高度相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "金山區",
+    "region": "北海岸",
+    "population": 19538,
+    "area": 47.73,
+    "density": 409,
+    "issues": [
+      "溫泉觀光",
+      "農漁產業",
+      "醫療高齡",
+      "北海岸交通"
+    ],
+    "lee": "全市29區觀光與交通政策適用。",
+    "su": "海岸觀光、長幼福利及交通平權政策具區域適用性。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "萬里區",
+    "region": "北海岸",
+    "population": 19975,
+    "area": 63.57,
+    "density": 314,
+    "issues": [
+      "海岸觀光",
+      "漁業",
+      "高齡醫療",
+      "山海交通"
+    ],
+    "lee": "全市觀光與交通政策適用。",
+    "su": "海岸觀光、交通平權與高齡福利可作為檢驗框架。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "平溪區",
+    "region": "東北山城",
+    "population": 3864,
+    "area": 71.16,
+    "density": 54,
+    "issues": [
+      "極低人口",
+      "平溪線觀光",
+      "公共運輸",
+      "山區防災"
+    ],
+    "lee": "全市觀光政策可適用；專屬重大工程待補。",
+    "su": "交通平權、長幼福利及山城觀光方向相關。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "雙溪區",
+    "region": "東北山城",
+    "population": 7347,
+    "area": 145.68,
+    "density": 50,
+    "issues": [
+      "低人口高齡",
+      "台鐵偏鄉交通",
+      "地方創生",
+      "醫療可近性"
+    ],
+    "lee": "全市觀光與交通政策適用。",
+    "su": "交通平權、青年、長幼福利可適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜四大青年支持",
+        "url": "https://chiao.tw/policies/%E5%9B%9B%E5%A4%A7%E9%9D%92%E5%B9%B4%E6%94%AF%E6%8C%81%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "貢寮區",
+    "region": "東北海岸",
+    "population": 10264,
+    "area": 101.79,
+    "density": 101,
+    "issues": [
+      "海洋觀光",
+      "漁業",
+      "台鐵公路",
+      "人口老化"
+    ],
+    "lee": "全市觀光與交通政策適用。",
+    "su": "海岸觀光、交通平權與高齡福利具直接關聯。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      },
+      {
+        "title": "蘇巧慧2026官方網站",
+        "url": "https://chiao.tw/",
+        "type": "候選人官方"
+      }
+    ]
+  },
+  {
+    "name": "烏來區",
+    "region": "原鄉山區",
+    "population": 6107,
+    "area": 333.46,
+    "density": 18,
+    "issues": [
+      "原民文化居住",
+      "觀光交通",
+      "颱風韌性",
+      "醫療服務"
+    ],
+    "lee": "原住民族政策涵蓋社宅、文化、青年與運動。",
+    "su": "長幼福利、青年與交通平權可適用。",
+    "sources": [
+      {
+        "title": "新北市政府民政局｜人口統計",
+        "url": "https://www.ca.ntpc.gov.tw/home.jsp?id=272&parentpath=0",
+        "type": "政府"
+      },
+      {
+        "title": "中央社｜李四川原住民族政策",
+        "url": "https://www.cna.com.tw/news/aloc/202606270179.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "中央社｜蘇巧慧交通平權／李四川產業政策",
+        "url": "https://www.cna.com.tw/news/aloc/202607080165.aspx",
+        "type": "媒體／政見"
+      },
+      {
+        "title": "蘇巧慧官方｜六大長幼福利",
+        "url": "https://chiao.tw/policies/%E5%85%AD%E5%A4%A7%E9%95%B7%E5%B9%BC%E7%A6%8F%E5%88%A9%E6%94%BF%E8%A6%8B",
+        "type": "候選人官方"
+      }
+    ]
+  }
+]
